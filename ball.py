@@ -1,0 +1,2 @@
+class Paddle():
+	print Paddle
