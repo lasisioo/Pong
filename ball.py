@@ -1,4 +1,4 @@
 class Paddle():
 	
-	print 'X and Y coordinates'
+	print 'X and Y coordinate'
 	print Paddle
